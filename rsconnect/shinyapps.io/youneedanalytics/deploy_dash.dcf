@@ -1,0 +1,11 @@
+name: deploy_dash
+title:
+username:
+account: youneedanalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8836712
+bundleId: 7082429
+url: https://youneedanalytics.shinyapps.io/deploy_dash/
+when: 1681346301.44771
+lastSyncTime: 1681346301.44772
